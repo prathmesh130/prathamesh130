@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NextJS,Express,DSA**
 
-- 👨‍💻 Portfolio Website [https://prathamexh-portfolio.vercel.app/](https://pratham-portfolio-esh-13.vercel.app/)
+- 👨‍💻 Portfolio Website [(https://pratham-portfolio-esh-13.vercel.app/](https://pratham-portfolio-esh-13.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
